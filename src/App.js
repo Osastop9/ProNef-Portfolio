@@ -1,5 +1,6 @@
 import { Download, SectionWrapper, Features } from "./components";
 import assets from "./assets";
+import styles from "./styles/Global";
 
 const App = () => {
   return (
