@@ -46,7 +46,7 @@ const SectionWrapper = ({
             {description}
           </p>
           {showBtn && (
-            <Button assetUrl={assets.expo} link="https://exp.host/@osastop9/NFTApp/index.exp?sdkVersion=45.0.0" />
+            <Button assetUrl={assets.expo} link="https://expo.dev/@osastop9/NFTApp?serviceType=classic&distribution=expo-go" />
           )}
         </div>
         <div className={`flex-1 ${styles.flexCenter} p-8 sm:px-0`}>
